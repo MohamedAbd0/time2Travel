@@ -1,0 +1,9 @@
+export 'flight.dart';
+export 'fare_total.dart';
+export 'origin_destination_options.dart';
+export 'passengers.dart';
+export 'penalty_details.dart';
+export 'price_base.dart';
+export 'price_taxes.dart';
+export 'tour_segments.dart';
+export 'response_flight_search.dart';
