@@ -8,9 +8,7 @@ import 'package:time2Travel/utils/utils.dart';
 typedef ResponseConverter<T> = T Function(dynamic response);
 
 class DioClient with MainBoxMixin {
-  String baseUrl = "http://3.141.119.46:81";
-  
-  //const String.fromEnvironment("BASE_URL");
+  String baseUrl = const String.fromEnvironment("BASE_URL");
 
   String? _auth;
   bool _isUnitTest = false;
