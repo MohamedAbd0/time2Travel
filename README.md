@@ -5,7 +5,8 @@ A new Flutter project.
 ## Screens
 ![](https://github.com/MohamedAbd0/time2Travel/blob/main/screan.png)
 ## Demo
-![](https://github.com/MohamedAbd0/time2Travel/blob/main/demo.mp4)
+https://github.com/MohamedAbd0/time2Travel/assets/32939129/b5dcc1d0-c72d-44d2-ae02-94faa065260f
+
 
 ## Getting Started
 
