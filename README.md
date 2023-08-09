@@ -2,9 +2,8 @@
 
 A new Flutter project.
 
-https://github.com/MohamedAbd0/time2Travel/screan.png
-
-https://github.com/MohamedAbd0/time2Travel/demo.mp4
+![](https://github.com/MohamedAbd0/time2Travel/blob/main/screan.png)
+![](https://github.com/MohamedAbd0/time2Travel/blob/main/demo.mp4)
 
 ## Getting Started
 
