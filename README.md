@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
+## Screens
 ![](https://github.com/MohamedAbd0/time2Travel/blob/main/screan.png)
+## Demo
 ![](https://github.com/MohamedAbd0/time2Travel/blob/main/demo.mp4)
 
 ## Getting Started
